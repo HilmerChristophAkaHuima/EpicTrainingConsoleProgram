@@ -1,4 +1,4 @@
 # EpicTrainingConsoleProgram
-    [x] Settings
-    [x] Logging
-    [x] Dependency Injection
+   - [x] Settings
+   - [x] Logging
+   - [x] Dependency Injection
